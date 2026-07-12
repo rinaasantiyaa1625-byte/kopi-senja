@@ -8,11 +8,11 @@ Website pemesanan kopi online untuk cafe **Kopi Senja**, lengkap dengan halaman 
 
 | Keterangan | Detail |
 |---|---|
-| **Nama** | (isi nama kamu) |
-| **NIM** | (isi NIM kamu) |
-| **Mata Kuliah** | (isi mata kuliah) |
-| **Program Studi** | (isi program studi) |
-| **Semester** | (isi semester) |
+| **Nama** | Rina Santiya |
+| **NIM** | 209250151 |
+| **Mata Kuliah** | KOMPUTER APLIKASI IT II |
+| **Program Studi** | Administrasi Bisnis |
+| **Semester** | 2 2025/2026 |
 
 ---
 
