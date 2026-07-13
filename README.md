@@ -20,9 +20,9 @@ Website pemesanan kopi online untuk cafe **Kopi Senja**, lengkap dengan halaman 
 
 | Keterangan | Link |
 |---|---|
-| **Live Website (Customer)** | (isi link GitHub Pages setelah deploy, mis. `https://username.github.io/fruitybite/`) |
-| **Halaman Admin** | (isi link admin dashboard setelah tersedia) |
-| **Repository GitHub** | (isi link repo) |
+| **Live Website (Customer)** | (`https://username.github.io/fruitybite/`) |
+| **Halaman Youtube** | (isi link admin dashboard setelah tersedia) |
+| **Repository GitHub** | (https://github.com/rinaasantiyaa1625-byte/kopi-senja) |
 
 ---
 
